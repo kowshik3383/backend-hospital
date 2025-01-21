@@ -25,7 +25,7 @@
   },
   "name": "server",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000b\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000-\u0000s\u0000e\u0000r\u0000v\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "description": "Backend server for handling API requests and processing data.",
   "main": "server.js",
   "devDependencies": {},
   "scripts": {
